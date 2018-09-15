@@ -5,7 +5,7 @@ import fs from 'fs';
 import path from 'path';
 import glob from 'glob';
 
-import pkg  from './../package.json';
+import pkg from './../package.json';
 
 const dirs = pkg['h5bp-configs'].directories;
 
@@ -73,8 +73,8 @@ function checkFiles(directory, expectedFiles) {
     'mark': true      // add a `/` character to directory matches
   });
 
-    // Check if all expected files are present in the
-    // specified directory, and are of the expected type
+  // Check if all expected files are present in the
+  // specified directory, and are of the expected type
   expectedFiles.forEach((file) => {
 
     let ok = false;
@@ -96,7 +96,7 @@ function checkFiles(directory, expectedFiles) {
 
     }
 
-    it(`"${file}" should be present and it should be a ${expectedFileType}`, () =>{
+    it(`"${file}" should be present and it should be a ${expectedFileType}`, () => {
       assert.equal(true, ok);
     });
 

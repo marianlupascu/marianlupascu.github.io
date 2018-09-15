@@ -1,18 +1,34 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+  <!--- basic page needs
+    ================================================== -->
   <meta charset="utf-8">
   <meta http-equiv="x-ua-compatible" content="ie=edge">
-  <title>LM - ComingSoon</title>
+  <title>Under construction</title>
   <meta name="description" content="">
+  <link rel="manifest" href="../../src/site.webmanifest">
+
+  <!-- mobile specific metas
+    ================================================== -->
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-  <link rel="manifest" href="../../src/site.webmanifest">
-  <link rel="icon" href="../../src/img/favicon.ico">
-  <!-- Place favicon.ico in the root directory -->
+  <!-- favicons
+    ================================================== -->
+  <link rel="icon" href="../../src/img/favicon.ico" type="image/x-icon">
+  <link rel="shortcut icon" href="../../src/img/favicon.ico" type="image/x-icon">
 
-  <link rel="stylesheet" href="../../src/css/comingSoon.css">
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+  <!-- Place favicon.ico in the root directory -->
+  <!-- CSS
+    ================================================== -->
+  <link rel="stylesheet" href="../../src/css/comingSoon/base.css">
+  <link rel="stylesheet" href="../../src/css/comingSoon/vendor.css">
+  <link rel="stylesheet" href="../../src/css/comingSoon/main.css">
+
+  <!-- script
+    ================================================== -->
+  <script src="../../src/js/comingSoon/modernizr.js"></script>
+  <script src="../../src/js/comingSoon/pace.min.js"></script>
 
 </head>
 <body>
@@ -23,20 +39,117 @@
 
 <!-- Add your site or application content here -->
 
-<div class="bgimg">
-  <div class="logocontainer">
-    <img src="../../src/img/LM.png" height="100px" width="100px">
+<!-- home
+    ================================================== -->
+<main class="s-home s-home--slides">
+
+  <div class="home-slider">
+    <div class="home-slider-img" style="background-image: url(../../src/img/comingSoon/slide-01.jpg);"></div>
+    <div class="home-slider-img" style="background-image: url(../../src/img/comingSoon/slide-02.jpg);"></div>
+    <div class="home-slider-img" style="background-image: url(../../src/img/comingSoon/slide-03.jpg);"></div>
   </div>
-  <div class="titlecontainer">
-    <h1 class="titlesubcontainer">COMING SOON</h1>
-    <hr class="lineundertitle">
-    <p class="subtitlesubcontainer">35 days left</p>
-  </div>
-  <div class="poweredbycontainer">
-    Powered by <a href="https://github.com/marianlupascu" target="_blank">Lupascu Marian</a>
+
+  <div class="overlay"></div>
+
+  <div class="home-content">
+
+    <div class="home-logo">
+      <a href="#">
+        <img src="../../src/img/LM.png" alt="Homepage">
+      </a>
+    </div>
+
+    <div class="row home-content__main">
+
+      <div class="col-eight home-content__text pull-right">
+        <h3>Welcome to LM</h3>
+
+        <h1>
+          I am currently working <br>
+          on a new super awesome <br> website.
+        </h1>
+
+        <p>
+          I`ll be here soon with my new awesome site, subscribe to be notified.
+        </p>
+
+        <div class="home-content__subscribe">
+          <form id="mc-form" class="group" novalidate="novalidate">
+            <input type="email" value="" name="EMAIL" class="email" id="mc-email" placeholder="Email Address"
+                   required="">
+            <input type="submit" name="subscribe" value="Notify Me">
+            <label for="mc-email" class="subscribe-message"></label>
+          </form>
+        </div>
+      </div>  <!-- end home-content__text -->
+
+      <div class="col-four home-content__counter">
+        <h3>Launching In</h3>
+
+        <div class="home-content__clock">
+          <div class="top">
+            <div class="time days">
+              65
+              <span>Days</span>
+            </div>
+          </div>
+          <div class="time hours">
+            09
+            <span>H</span>
+          </div>
+          <div class="time minutes">
+            54
+            <span>M</span>
+          </div>
+          <div class="time seconds">
+            30
+            <span>S</span>
+          </div>
+        </div>  <!-- end home-content__clock -->
+      </div>  <!-- end home-content__counter -->
+
+    </div>  <!-- end home-content__main -->
+
+    <ul class="home-social">
+      <li>
+        <a href="https://www.facebook.com/marianlupascu15"><i class="fab fa-facebook-f" aria-hidden="true"></i><span>Facebook</span></a>
+      </li>
+      <li>
+        <a href="https://twitter.com/LupascuMaryan"><i class="fab fa-twitter"
+                                                       aria-hidden="true"></i><span>Twiiter</span></a>
+      </li>
+      <li>
+        <a href="https://github.com/marianlupascu"><i class="fab fa-github"
+                                                      aria-hidden="true"></i><span>Github</span></a>
+      </li>
+      <li>
+        <a href="https://www.linkedin.com/in/marianlupascu15/"><i class="fab fa-linkedin" aria-hidden="true"></i><span>Linkedin</span></a>
+      </li>
+    </ul> <!-- end home-social -->
+
+  </div> <!-- end home-content -->
+
+</main> <!-- end s-home -->
+
+<!-- preloader
+================================================== -->
+<div id="preloader">
+  <div id="loader">
+    <div class="line-scale-pulse-out">
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+      <div></div>
+    </div>
   </div>
 </div>
 
+<!-- Java Script
+================================================== -->
+<script src="../../src/js/comingSoon/jquery-3.2.1.min.js"></script>
+<script src="../../src/js/comingSoon/plugins.js"></script>
+<script src="../../src/js/comingSoon/main.js"></script>
 
 <script src="../../src/js/vendor/modernizr-{{MODERNIZR_VERSION}}.min.js"></script>
 <script src="https://code.jquery.com/jquery-{{JQUERY_VERSION}}.min.js" integrity="{{JQUERY_SRI_HASH}}"

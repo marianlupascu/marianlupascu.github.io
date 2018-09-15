@@ -2,11 +2,9 @@ import fs from 'fs';
 import path from 'path';
 
 import gulp from 'gulp';
-
 // Load all gulp plugins automatically
 // and attach them to the `plugins` object
 import plugins from 'gulp-load-plugins';
-
 // Temporary solution until gulp 4
 // https://github.com/gulpjs/gulp/issues/355
 import runSequence from 'run-sequence';
@@ -154,7 +152,7 @@ gulp.task('copy:normalize', () =>
     .pipe(gulp.dest(`${dirs.dist}/css`))
 );
 
-gulp.task('modernizr', (done) =>{
+gulp.task('modernizr', (done) => {
 
   modernizr.build(modernizrConfig, (code) => {
     fs.writeFile(`${dirs.dist}/js/vendor/modernizr-${pkg.devDependencies.modernizr}.min.js`, code, done);

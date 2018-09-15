@@ -24,7 +24,7 @@ function checkString(file, string, done) {
     // Read file until the string is found
     // or the whole file has been read
     while (matchFound !== true &&
-                (character = readStream.read(1)) !== null) {
+    (character = readStream.read(1)) !== null) {
 
       if (character === string.charAt(matchedPositions)) {
         matchedPositions += 1;
