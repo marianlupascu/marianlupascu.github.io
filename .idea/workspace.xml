@@ -2,23 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4da86d15-16a9-4f22-81ba-02c3704a8d98" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/css/resume/base.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/css/resume/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/css/resume/vendor.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/html/Resume.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/js/resume/jquery-3.2.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/js/resume/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/js/resume/modernizr.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/js/resume/pace.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/js/resume/plugins.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/css/comingSoon/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/comingSoon/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/html/ComingSoon.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/html/ComingSoon.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/comingSoon/jquery-3.2.1.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/comingSoon/jquery-3.2.1.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/comingSoon/modernizr.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/comingSoon/modernizr.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/comingSoon/pace.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/comingSoon/pace.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/comingSoon/particles.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/comingSoon/particles.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/comingSoon/plugins.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/comingSoon/plugins.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/resume/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/resume/bootstrap.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/resume/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/resume/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/html/Resume.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/html/Resume.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/main.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -70,29 +58,29 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="css" value="977" />
-          <entry key="html" value="1839" />
+          <entry key="css" value="1159" />
+          <entry key="html" value="1914" />
           <entry key="js" value="146" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSS" value="977" />
-          <entry key="HTML" value="1839" />
+          <entry key="CSS" value="1159" />
+          <entry key="HTML" value="1914" />
           <entry key="JavaScript" value="146" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="css" value="78" />
-          <entry key="html" value="11" />
+          <entry key="css" value="79" />
+          <entry key="html" value="12" />
           <entry key="js" value="61" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CSS" value="78" />
-          <entry key="HTML" value="11" />
+          <entry key="CSS" value="79" />
+          <entry key="HTML" value="12" />
           <entry key="JavaScript" value="61" />
         </counts>
       </usages-collector>
@@ -100,7 +88,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="71">
@@ -109,34 +97,16 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/js/main.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/html/Resume.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="547">
-              <caret line="603" selection-start-line="603" selection-end-line="603" />
+            <state relative-caret-position="418">
+              <caret line="138" column="3" selection-start-line="138" selection-start-column="3" selection-end-line="138" selection-end-column="3" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#section#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#h3#0;n#div#0;n#div#0;n#section#5;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/css/resume/styles.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="237" column="76" lean-forward="true" selection-start-line="237" selection-start-column="76" selection-end-line="237" selection-end-column="76" />
             </state>
           </provider>
         </entry>
@@ -153,10 +123,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>group</find>
-      <find>mc-email</find>
-      <find>email</find>
-      <find>slick-slider</find>
       <find>s-home</find>
       <find>header</find>
       <find>intro-section</find>
@@ -175,20 +141,24 @@
       <find>.row</find>
       <find>.col</find>
       <find>sm-4</find>
-      <find>col-sm-8</find>
-      <find>col-sm-6</find>
-      <find>col-lg-3</find>
       <find>col-md-4</find>
       <find>col-lg-2</find>
       <find>about-section</find>
-      <find>col-md-6</find>
       <find>slider</find>
+      <find>home-logo</find>
+      <find>home-social</find>
+      <find>col-sm-6</find>
+      <find>col-lg-3</find>
+      <find>col-md-6</find>
+      <find>copyright</find>
+      <find>media</find>
+      <find>col-sm-8</find>
     </findStrings>
     <dirStrings>
       <dir>C:\Users\Marian\Documents\GitHub\marianlupascu.github.io\src\css</dir>
       <dir>C:\Users\Marian\Documents\GitHub\marianlupascu.github.io\src\js\comingSoon</dir>
-      <dir>C:\Users\Marian\Documents\GitHub\marianlupascu.github.io\src\css\comingSoon</dir>
       <dir>C:\Users\Marian\Documents\GitHub\marianlupascu.github.io</dir>
+      <dir>C:\Users\Marian\Documents\GitHub\marianlupascu.github.io\src\css\comingSoon</dir>
       <dir>C:\Users\Marian\Documents\GitHub\marianlupascu.github.io\src\css\resume</dir>
     </dirStrings>
   </component>
@@ -206,7 +176,6 @@
         <option value="$PROJECT_DIR$/src/css/comingSoon/fonts.css" />
         <option value="$PROJECT_DIR$/src/css/comingSoon/base.css" />
         <option value="$PROJECT_DIR$/src/js/comingSoon/main.js" />
-        <option value="$PROJECT_DIR$/src/html/ComingSoon.html" />
         <option value="$PROJECT_DIR$/src/css/comingSoon/main.css" />
         <option value="$PROJECT_DIR$/src/js/resume/main.js" />
         <option value="$PROJECT_DIR$/src/js/resume/progressbar.min.js" />
@@ -230,11 +199,12 @@
         <option value="$PROJECT_DIR$/src/js/comingSoon/particles.min.js" />
         <option value="$PROJECT_DIR$/src/js/comingSoon/plugins.js" />
         <option value="$PROJECT_DIR$/src/css/resume/base.css" />
-        <option value="$PROJECT_DIR$/src/css/resume/bootstrap.css" />
         <option value="$PROJECT_DIR$/src/css/resume/main.css" />
-        <option value="$PROJECT_DIR$/src/css/resume/styles.css" />
-        <option value="$PROJECT_DIR$/src/html/Resume.html" />
+        <option value="$PROJECT_DIR$/src/html/ComingSoon.html" />
         <option value="$PROJECT_DIR$/src/js/main.js" />
+        <option value="$PROJECT_DIR$/src/html/Resume.html" />
+        <option value="$PROJECT_DIR$/src/css/resume/styles.css" />
+        <option value="$PROJECT_DIR$/src/css/resume/bootstrap.css" />
       </list>
     </option>
   </component>
@@ -384,18 +354,18 @@
       <workItem from="1537011036384" duration="32000" />
       <workItem from="1537964704303" duration="6716000" />
       <workItem from="1538031183480" duration="17155000" />
-      <workItem from="1538115778241" duration="9838000" />
+      <workItem from="1538115778241" duration="13589000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46638000" />
+    <option name="totallyTimeSpent" value="50389000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49832216" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49832216" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" sideWeight="0.5016779" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -624,20 +594,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/html/ComingSoon.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="24" lean-forward="true" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/css/resume/bootstrap.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="625">
-          <caret line="1667" column="11" selection-start-line="1667" selection-start-column="3" selection-end-line="1667" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/css/resume/base.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -651,25 +607,6 @@
     <entry file="file://$PROJECT_DIR$/src/css/resume/vendor.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/css/resume/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="237" column="76" lean-forward="true" selection-start-line="237" selection-start-column="76" selection-end-line="237" selection-end-column="76" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/html/Resume.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="547">
-          <caret line="603" selection-start-line="603" selection-end-line="603" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#section#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h3#0;n#div#0;n#div#0;n#section#5;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -677,10 +614,48 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/html/ComingSoon.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="129" column="34" selection-start-line="129" selection-start-column="34" selection-end-line="129" selection-end-column="34" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="71">
           <caret line="29" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/css/resume/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="394">
+          <caret line="259" column="86" selection-start-line="259" selection-start-column="86" selection-end-line="259" selection-end-column="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/css/resume/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="775" column="3" lean-forward="true" selection-start-line="775" selection-start-column="3" selection-end-line="775" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/html/Resume.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="138" column="3" selection-start-line="138" selection-start-column="3" selection-end-line="138" selection-end-column="3" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#section#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h3#0;n#div#0;n#div#0;n#section#5;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

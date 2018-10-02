@@ -9242,6 +9242,29 @@ a.text-gray-dark:focus, a.text-gray-dark:hover {
   .hidden-xs-down {
     display: none !important;
   }
+
+  .information-table {
+    transform: translate(-50px, 0);
+  }
+
+}
+
+@media (max-width: 1000px) {
+  .about-section {
+    transform: translate(0, 50px);
+  }
+}
+
+@media (max-width: 440px) {
+  .about-section {
+    margin-top: 175px!important;
+  }
+}
+
+@media (max-width: 370px) {
+  .about-section {
+    margin-top: 240px!important;
+  }
 }
 
 @media (min-width: 576px) {

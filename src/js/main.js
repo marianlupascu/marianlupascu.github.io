@@ -1,4 +1,4 @@
 window.onload = function load() {
-  window.location.href = "src/html/Resume.html";
+  window.location.href = "src/html/ComingSoon.html";
 
 }
