@@ -33,13 +33,13 @@
 
     $WIN.on('load', function () {
 
-      // will first fade out the loading animation 
+      // will first fade out the loading animation
       $("#loader").fadeOut("slow", function () {
         // will fade out the whole DIV that covers the website.
         $("#preloader").delay(300).fadeOut("slow");
       });
 
-      // for hero content animations 
+      // for hero content animations
       $("html").removeClass('ss-preload');
       $("html").addClass('ss-loaded');
 
@@ -89,7 +89,7 @@
    * ------------------------------------------------------ */
   var ssFinalCountdown = function () {
 
-    var finalDate = '2019/08/30';
+    var finalDate = '2020/03/30';
 
     $('.home-content__clock').countdown(finalDate)
       .on('update.countdown finish.countdown', function (event) {
