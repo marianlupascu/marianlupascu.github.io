@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="4da86d15-16a9-4f22-81ba-02c3704a8d98" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/comingSoon/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/comingSoon/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/html/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/404.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -60,15 +60,16 @@
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Marian\Documents\GitHub\marianlupascu.github.io\src\js\resume" />
+      <recent name="C:\Users\Marian\Documents\GitHub\marianlupascu.github.io\src\css\resume" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Marian Lupascu\Documents\GitHub\marianlupascu.github.io" />
       <recent name="C:\Users\Marian Lupascu\Documents\GitHub\marianlupascu.github.io\src\img\404" />
       <recent name="C:\Users\Marian Lupascu\Documents\GitHub\marianlupascu.github.io\src\css\404" />
       <recent name="C:\Users\Marian\Documents\GitHub\marianlupascu.github.io\src\img" />
       <recent name="C:\Users\Marian\Documents\GitHub\marianlupascu.github.io" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Marian\Documents\GitHub\marianlupascu.github.io\src\js\resume" />
-      <recent name="C:\Users\Marian\Documents\GitHub\marianlupascu.github.io\src\css\resume" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -113,6 +114,7 @@
       <workItem from="1572242860756" duration="178000" />
       <workItem from="1580977028582" duration="610000" />
       <workItem from="1580977785719" duration="1502000" />
+      <workItem from="1580979933874" duration="85000" />
     </task>
     <servers />
   </component>
