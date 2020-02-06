@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4da86d15-16a9-4f22-81ba-02c3704a8d98" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulpfile.babel.js" beforeDir="false" afterPath="$PROJECT_DIR$/gulpfile.babel.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/comingSoon/plugins.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/comingSoon/plugins.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/resume/plugins.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/resume/plugins.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/resume/scripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/resume/scripts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/file_content.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/file_content.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/file_existence.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/file_existence.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -114,7 +119,7 @@
       <workItem from="1580977028582" duration="610000" />
       <workItem from="1580977785719" duration="1502000" />
       <workItem from="1580979933874" duration="85000" />
-      <workItem from="1580980152231" duration="403000" />
+      <workItem from="1580980152231" duration="755000" />
     </task>
     <servers />
   </component>
