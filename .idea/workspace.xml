@@ -2,21 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4da86d15-16a9-4f22-81ba-02c3704a8d98" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/.editorconfig" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/404.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/404.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/404.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/404/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/404/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/resume/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/resume/bootstrap.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/resume/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/resume/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fonts/ionicons/ionicons.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/fonts/ionicons/ionicons.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/html/ComingSoon.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/html/ComingSoon.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/html/Resume.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/html/Resume.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/comingSoon/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/comingSoon/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -123,8 +110,17 @@
       <workItem from="1580979933874" duration="85000" />
       <workItem from="1580980152231" duration="1576000" />
       <workItem from="1606048090748" duration="44000" />
-      <workItem from="1606048171065" duration="2720000" />
+      <workItem from="1606048171065" duration="2987000" />
+      <workItem from="1606051343673" duration="434000" />
     </task>
+    <task id="LOCAL-00001" summary="Update same infos">
+      <created>1606051194382</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1606051194382</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -143,9 +139,18 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="Update same infos" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update same infos" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="264" y="0" key="CommitChangelistDialog2" timestamp="1606051190724">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="264" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1606051190724" />
+    <state x="275" y="92" key="Vcs.Push.Dialog.v2" timestamp="1606051466634">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="92" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1606051466634" />
     <state x="391" y="81" width="583" height="566" key="find.popup" timestamp="1606048502425">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
