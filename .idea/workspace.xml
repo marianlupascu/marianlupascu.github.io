@@ -1,8 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4da86d15-16a9-4f22-81ba-02c3704a8d98" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="4da86d15-16a9-4f22-81ba-02c3704a8d98" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/404/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/404/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/resume/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/resume/bootstrap.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/resume/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/resume/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fonts/ionicons/ionicons.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/fonts/ionicons/ionicons.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/html/ComingSoon.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/html/ComingSoon.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/html/Resume.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/html/Resume.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/comingSoon/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/comingSoon/main.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,12 +53,16 @@
       </profile-state>
     </entry>
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="editor.config.ad.shown" value="true" />
     <property name="full.screen.before.presentation.mode" value="false" />
-    <property name="last_opened_file_path" value="C:/Program Files/Git/bin/git.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../Program Files/Git/bin/git.exe" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
@@ -55,6 +74,7 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -69,18 +89,7 @@
       <recent name="C:\Users\Marian\Documents\GitHub\marianlupascu.github.io" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -113,26 +122,37 @@
       <workItem from="1580977785719" duration="1502000" />
       <workItem from="1580979933874" duration="85000" />
       <workItem from="1580980152231" duration="1576000" />
+      <workItem from="1606048090748" duration="44000" />
+      <workItem from="1606048171065" duration="2720000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="391" y="81" width="583" height="566" key="find.popup" timestamp="1606048502425">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="391" y="81" width="583" height="566" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1606048502425" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1606050159814">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1606050159814" />
   </component>
 </project>
