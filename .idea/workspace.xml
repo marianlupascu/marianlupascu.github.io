@@ -2,6 +2,59 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4da86d15-16a9-4f22-81ba-02c3704a8d98" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/pedago/Pedago.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pedago/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pedago/css/templatemo-video-catalog.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pedago/fontawesome/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pedago/fontawesome/css/all.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pedago/fontawesome/webfonts/fa-brands-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pedago/fontawesome/webfonts/fa-brands-400.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pedago/fontawesome/webfonts/fa-brands-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pedago/fontawesome/webfonts/fa-brands-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pedago/fontawesome/webfonts/fa-brands-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pedago/fontawesome/webfonts/fa-regular-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pedago/fontawesome/webfonts/fa-regular-400.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pedago/fontawesome/webfonts/fa-regular-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pedago/fontawesome/webfonts/fa-regular-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pedago/fontawesome/webfonts/fa-regular-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pedago/fontawesome/webfonts/fa-solid-900.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pedago/fontawesome/webfonts/fa-solid-900.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pedago/fontawesome/webfonts/fa-solid-900.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pedago/fontawesome/webfonts/fa-solid-900.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pedago/fontawesome/webfonts/fa-solid-900.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pedago/img/about-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pedago/img/about-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pedago/img/about-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pedago/img/contact-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pedago/img/contact-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pedago/img/elliptic-curve.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pedago/img/image-1582299090634-df900b01178a9a4c10f96028ae03f354.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pedago/img/rsa.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pedago/img/select-arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pedago/img/testimonial-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pedago/img/testimonial-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pedago/img/testimonial-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pedago/img/testimonial-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pedago/img/tn-01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pedago/img/tn-02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pedago/img/tn-03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pedago/img/tn-04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pedago/img/tn-05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pedago/img/tn-06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pedago/img/tn-07.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pedago/img/tn-08.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pedago/img/tn-09.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pedago/img/video-detail-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pedago/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pedago/js/jquery-3.4.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pedago/js/parallax.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pedago/video-page-GANs.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pedago/video-page-curbe-eliptice.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pedago/video-page-rsa.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pedago/video/Final.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pedago/video/ec.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pedago/video/rsa.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pedago/video/wheat-field.mp4" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/html/Resume.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/html/Resume.html" afterDir="false" />
     </list>
@@ -40,11 +93,15 @@
       </profile-state>
     </entry>
   </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="editor.config.ad.shown" value="true" />
@@ -64,16 +121,16 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Marian\Documents\GitHub\marianlupascu.github.io\src\js\resume" />
-      <recent name="C:\Users\Marian\Documents\GitHub\marianlupascu.github.io\src\css\resume" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Marian Lupascu\Documents\GitHub\marianlupascu.github.io\src\pedago" />
       <recent name="C:\Users\Marian Lupascu\Documents\GitHub\marianlupascu.github.io" />
       <recent name="C:\Users\Marian Lupascu\Documents\GitHub\marianlupascu.github.io\src\img\404" />
       <recent name="C:\Users\Marian Lupascu\Documents\GitHub\marianlupascu.github.io\src\css\404" />
       <recent name="C:\Users\Marian\Documents\GitHub\marianlupascu.github.io\src\img" />
-      <recent name="C:\Users\Marian\Documents\GitHub\marianlupascu.github.io" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Marian\Documents\GitHub\marianlupascu.github.io\src\js\resume" />
+      <recent name="C:\Users\Marian\Documents\GitHub\marianlupascu.github.io\src\css\resume" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -112,6 +169,7 @@
       <workItem from="1606048090748" duration="44000" />
       <workItem from="1606048171065" duration="2987000" />
       <workItem from="1606051343673" duration="434000" />
+      <workItem from="1611917021322" duration="6624000" />
     </task>
     <task id="LOCAL-00001" summary="Update same infos">
       <created>1606051194382</created>
@@ -139,6 +197,7 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Update same infos" />
     <option name="LAST_COMMIT_MESSAGE" value="Update same infos" />
   </component>
@@ -151,10 +210,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="275" y="92" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1606051466634" />
-    <state x="391" y="81" width="583" height="566" key="find.popup" timestamp="1606048502425">
+    <state x="391" y="81" width="762" height="566" key="find.popup" timestamp="1611930056024">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="391" y="81" width="583" height="566" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1606048502425" />
+    <state x="391" y="81" width="762" height="566" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1611930056024" />
     <state x="339" y="162" key="run.anything.popup" timestamp="1606050159814">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
