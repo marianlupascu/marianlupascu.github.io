@@ -2,61 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4da86d15-16a9-4f22-81ba-02c3704a8d98" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/pedago/Pedago.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pedago/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pedago/css/templatemo-video-catalog.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pedago/fontawesome/LICENSE.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pedago/fontawesome/css/all.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pedago/fontawesome/webfonts/fa-brands-400.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pedago/fontawesome/webfonts/fa-brands-400.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pedago/fontawesome/webfonts/fa-brands-400.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pedago/fontawesome/webfonts/fa-brands-400.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pedago/fontawesome/webfonts/fa-brands-400.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pedago/fontawesome/webfonts/fa-regular-400.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pedago/fontawesome/webfonts/fa-regular-400.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pedago/fontawesome/webfonts/fa-regular-400.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pedago/fontawesome/webfonts/fa-regular-400.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pedago/fontawesome/webfonts/fa-regular-400.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pedago/fontawesome/webfonts/fa-solid-900.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pedago/fontawesome/webfonts/fa-solid-900.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pedago/fontawesome/webfonts/fa-solid-900.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pedago/fontawesome/webfonts/fa-solid-900.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pedago/fontawesome/webfonts/fa-solid-900.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pedago/img/about-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pedago/img/about-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pedago/img/about-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pedago/img/contact-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pedago/img/contact-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pedago/img/elliptic-curve.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pedago/img/image-1582299090634-df900b01178a9a4c10f96028ae03f354.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pedago/img/rsa.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pedago/img/select-arrow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pedago/img/testimonial-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pedago/img/testimonial-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pedago/img/testimonial-3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pedago/img/testimonial-4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pedago/img/tn-01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pedago/img/tn-02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pedago/img/tn-03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pedago/img/tn-04.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pedago/img/tn-05.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pedago/img/tn-06.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pedago/img/tn-07.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pedago/img/tn-08.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pedago/img/tn-09.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pedago/img/video-detail-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pedago/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pedago/js/jquery-3.4.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pedago/js/parallax.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pedago/video-page-GANs.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pedago/video-page-curbe-eliptice.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pedago/video-page-rsa.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pedago/video/Final.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pedago/video/ec.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pedago/video/rsa.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pedago/video/wheat-field.mp4" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/html/Resume.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/html/Resume.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pedago/Pedago.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/pedago/Pedago.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pedago/video-page-GANs.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/pedago/video-page-GANs.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pedago/video-page-curbe-eliptice.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/pedago/video-page-curbe-eliptice.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pedago/video-page-rsa.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/pedago/video-page-rsa.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -170,6 +119,7 @@
       <workItem from="1606048171065" duration="2987000" />
       <workItem from="1606051343673" duration="434000" />
       <workItem from="1611917021322" duration="6624000" />
+      <workItem from="1612040571779" duration="102000" />
     </task>
     <task id="LOCAL-00001" summary="Update same infos">
       <created>1606051194382</created>
