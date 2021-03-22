@@ -2,10 +2,60 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4da86d15-16a9-4f22-81ba-02c3704a8d98" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/pedago/Pedago.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/pedago/Pedago.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pedago/video-page-GANs.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/pedago/video-page-GANs.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pedago/video-page-curbe-eliptice.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/pedago/video-page-curbe-eliptice.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pedago/video-page-rsa.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/pedago/video-page-rsa.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pedago/Pedago.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pedago/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pedago/css/templatemo-video-catalog.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pedago/fontawesome/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pedago/fontawesome/css/all.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pedago/fontawesome/webfonts/fa-brands-400.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pedago/fontawesome/webfonts/fa-brands-400.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pedago/fontawesome/webfonts/fa-brands-400.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pedago/fontawesome/webfonts/fa-brands-400.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pedago/fontawesome/webfonts/fa-brands-400.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pedago/fontawesome/webfonts/fa-regular-400.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pedago/fontawesome/webfonts/fa-regular-400.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pedago/fontawesome/webfonts/fa-regular-400.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pedago/fontawesome/webfonts/fa-regular-400.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pedago/fontawesome/webfonts/fa-regular-400.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pedago/fontawesome/webfonts/fa-solid-900.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pedago/fontawesome/webfonts/fa-solid-900.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pedago/fontawesome/webfonts/fa-solid-900.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pedago/fontawesome/webfonts/fa-solid-900.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pedago/fontawesome/webfonts/fa-solid-900.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pedago/img/about-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pedago/img/about-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pedago/img/about-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pedago/img/contact-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pedago/img/contact-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pedago/img/elliptic-curve.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pedago/img/image-1582299090634-df900b01178a9a4c10f96028ae03f354.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pedago/img/rsa.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pedago/img/select-arrow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pedago/img/testimonial-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pedago/img/testimonial-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pedago/img/testimonial-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pedago/img/testimonial-4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pedago/img/tn-01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pedago/img/tn-02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pedago/img/tn-03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pedago/img/tn-04.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pedago/img/tn-05.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pedago/img/tn-06.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pedago/img/tn-07.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pedago/img/tn-08.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pedago/img/tn-09.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pedago/img/video-detail-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pedago/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pedago/js/jquery-3.4.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pedago/js/parallax.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pedago/video-page-GANs.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pedago/video-page-curbe-eliptice.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pedago/video-page-rsa.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pedago/video/Final.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pedago/video/ec.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pedago/video/rsa.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pedago/video/wheat-field.mp4" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -120,6 +170,8 @@
       <workItem from="1606051343673" duration="434000" />
       <workItem from="1611917021322" duration="6624000" />
       <workItem from="1612040571779" duration="102000" />
+      <workItem from="1615796957469" duration="303000" />
+      <workItem from="1616262772903" duration="129000" />
     </task>
     <task id="LOCAL-00001" summary="Update same infos">
       <created>1606051194382</created>
@@ -150,23 +202,5 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Update same infos" />
     <option name="LAST_COMMIT_MESSAGE" value="Update same infos" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="264" y="0" key="CommitChangelistDialog2" timestamp="1606051190724">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="264" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1606051190724" />
-    <state x="275" y="92" key="Vcs.Push.Dialog.v2" timestamp="1606051466634">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="275" y="92" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1606051466634" />
-    <state x="391" y="81" width="762" height="566" key="find.popup" timestamp="1611930056024">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="391" y="81" width="762" height="566" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1611930056024" />
-    <state x="339" y="162" key="run.anything.popup" timestamp="1606050159814">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1606050159814" />
   </component>
 </project>
